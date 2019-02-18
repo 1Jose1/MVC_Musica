@@ -1,6 +1,6 @@
 <?php
 	
-	//Las variables de sesion se pueden ver gracias a esto
+	//Las variables bjhde sesion se pueden ver gracias a esto
 	session_start();
 	
 	//Comprobamos si la Sesion estaba abierta
